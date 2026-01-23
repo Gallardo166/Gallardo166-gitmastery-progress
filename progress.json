@@ -221,5 +221,14 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1769155592.165194,
+    "completed_at": 1769155594.965799,
+    "comments": [
+      "The shopping-list.txt file should not be deleted."
+    ],
+    "status": "Incomplete"
   }
 ]
