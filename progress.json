@@ -115,15 +115,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "sensors-revert",
-    "started_at": 1768829661.424256,
-    "completed_at": 1768829662.732171,
-    "comments": [
-      "Good work reverting commits!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "staging-intervention",
     "started_at": 1768462694.053279,
     "completed_at": 1768462695.49178,
@@ -363,14 +354,5 @@
       "You have reset the repository to the correct state!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-revert",
-    "started_at": 1769156632.69282,
-    "completed_at": 1769156635.500935,
-    "comments": [
-      "The files contain the wrong readings!"
-    ],
-    "status": "Incomplete"
   }
 ]
