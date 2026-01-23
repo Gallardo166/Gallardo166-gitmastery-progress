@@ -221,5 +221,14 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769155425.569183,
+    "completed_at": 1769155428.412852,
+    "comments": [
+      "Did not add alice.txt"
+    ],
+    "status": "Incomplete"
   }
 ]
