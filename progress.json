@@ -27,15 +27,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1768463071.493781,
-    "completed_at": 1768463073.032845,
-    "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "ignoring-somethings",
     "started_at": 1768729566.057152,
     "completed_at": 1768729571.526765,
@@ -221,14 +212,5 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1769155592.165194,
-    "completed_at": 1769155594.965799,
-    "comments": [
-      "The shopping-list.txt file should not be deleted."
-    ],
-    "status": "Incomplete"
   }
 ]
