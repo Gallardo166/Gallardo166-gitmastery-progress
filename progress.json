@@ -372,5 +372,14 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1769581064.703341,
+    "completed_at": 1769581067.893869,
+    "comments": [
+      "The 'sleep-line' branch is missing."
+    ],
+    "status": "Incomplete"
   }
 ]
